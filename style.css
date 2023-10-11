@@ -1,0 +1,6 @@
+@import '_color-theme';
+@import '_animation';
+
+body{
+    background-color: red;
+}
